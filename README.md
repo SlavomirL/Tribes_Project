@@ -1,0 +1,1 @@
+Me and my 3 friends started working on this project during our participation on 3rd module of Java course. This 3rd module is focused on simulating real work environment, using branches, VCS etc. I had to reupload it as a whole in its most recent state and any new changes will be added continuously.
